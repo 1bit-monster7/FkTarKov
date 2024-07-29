@@ -1,0 +1,41 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.pkl
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Virtual Environment
+venv/
+env/
+ENV/
+*.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# Environment variable files
+.env
+.env.local
+.env.*.local
